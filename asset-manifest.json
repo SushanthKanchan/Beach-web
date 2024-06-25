@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/SushanthKanchan/Beach-web.git/static/css/main.95d236bb.css",
-    "main.js": "/SushanthKanchan/Beach-web.git/static/js/main.335c6b62.js",
-    "static/media/beachVid.mp4": "/SushanthKanchan/Beach-web.git/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
-    "static/media/img4.jpg": "/SushanthKanchan/Beach-web.git/static/media/img4.f78f45e0fc7e184c95ef.jpg",
-    "static/media/img3.jpg": "/SushanthKanchan/Beach-web.git/static/media/img3.61f8f20451d82bb8be4f.jpg",
-    "static/media/beach12.avif": "/SushanthKanchan/Beach-web.git/static/media/beach12.fbe93410a2b4c7cffe1d.avif",
-    "static/media/img2.jpg": "/SushanthKanchan/Beach-web.git/static/media/img2.e7ba4a220602f879174a.jpg",
-    "static/media/beach3.avif": "/SushanthKanchan/Beach-web.git/static/media/beach3.94c9358951d9ddba08f0.avif",
-    "static/media/img5.jpg": "/SushanthKanchan/Beach-web.git/static/media/img5.0f7dd67c871cc3864d25.jpg",
-    "static/media/beach11.avif": "/SushanthKanchan/Beach-web.git/static/media/beach11.13fc664c29152e0638e7.avif",
-    "static/media/img1.jpg": "/SushanthKanchan/Beach-web.git/static/media/img1.6d62484b730d7ba01cb6.jpg",
-    "static/media/beachfooter.jpg": "/SushanthKanchan/Beach-web.git/static/media/beachfooter.7131a52849513d2d203b.jpg",
-    "static/media/beach4.jpg": "/SushanthKanchan/Beach-web.git/static/media/beach4.ac680306e5236addb9f5.jpg",
-    "index.html": "/SushanthKanchan/Beach-web.git/index.html",
-    "main.95d236bb.css.map": "/SushanthKanchan/Beach-web.git/static/css/main.95d236bb.css.map",
-    "main.335c6b62.js.map": "/SushanthKanchan/Beach-web.git/static/js/main.335c6b62.js.map"
+    "main.css": "/Beach-web/static/css/main.95d236bb.css",
+    "main.js": "/Beach-web/static/js/main.63272e70.js",
+    "static/media/beachVid.mp4": "/Beach-web/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/img4.jpg": "/Beach-web/static/media/img4.f78f45e0fc7e184c95ef.jpg",
+    "static/media/img3.jpg": "/Beach-web/static/media/img3.61f8f20451d82bb8be4f.jpg",
+    "static/media/beach12.avif": "/Beach-web/static/media/beach12.fbe93410a2b4c7cffe1d.avif",
+    "static/media/img2.jpg": "/Beach-web/static/media/img2.e7ba4a220602f879174a.jpg",
+    "static/media/beach3.avif": "/Beach-web/static/media/beach3.94c9358951d9ddba08f0.avif",
+    "static/media/img5.jpg": "/Beach-web/static/media/img5.0f7dd67c871cc3864d25.jpg",
+    "static/media/beach11.avif": "/Beach-web/static/media/beach11.13fc664c29152e0638e7.avif",
+    "static/media/img1.jpg": "/Beach-web/static/media/img1.6d62484b730d7ba01cb6.jpg",
+    "static/media/beachfooter.jpg": "/Beach-web/static/media/beachfooter.7131a52849513d2d203b.jpg",
+    "static/media/beach4.jpg": "/Beach-web/static/media/beach4.ac680306e5236addb9f5.jpg",
+    "index.html": "/Beach-web/index.html",
+    "main.95d236bb.css.map": "/Beach-web/static/css/main.95d236bb.css.map",
+    "main.63272e70.js.map": "/Beach-web/static/js/main.63272e70.js.map"
   },
   "entrypoints": [
     "static/css/main.95d236bb.css",
-    "static/js/main.335c6b62.js"
+    "static/js/main.63272e70.js"
   ]
 }
